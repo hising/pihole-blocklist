@@ -1,0 +1,6 @@
+collector.schibsted.io
+track.adform.net
+cdn.brandmetrics.com
+collector.brandmetrics.com
+entitlements.jwplayer.com
+match.adsby.bidtheatre.com
