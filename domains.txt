@@ -4,3 +4,10 @@ cdn.brandmetrics.com
 collector.brandmetrics.com
 entitlements.jwplayer.com
 match.adsby.bidtheatre.com
+ab-web-notifications.herokuapp.com
+ads.pubmatic.com
+adservice.google.de
+assets.expressen.se
+expressen-se.c.richmetrics.com
+hbopenbid.pubmatic.com
+inviso.rampanel.com
