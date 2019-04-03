@@ -11,3 +11,5 @@ assets.expressen.se
 expressen-se.c.richmetrics.com
 hbopenbid.pubmatic.com
 inviso.rampanel.com
+dn-se.c.richmetrics.com
+eus.rubiconproject.com
